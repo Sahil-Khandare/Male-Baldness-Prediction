@@ -33,7 +33,6 @@ The project covers:
 - Scikit-learn
 - XGBoost
 - Joblib
-- Jupyter Notebook
   
 ## Features
 
